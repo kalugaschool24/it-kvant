@@ -1,0 +1,10 @@
+1.Процессор Intel Core i5 11600K, LGA 1200, OEM   16990
+2.Процессор Intel Core i5 12400,  LGA 1700, OEM   14890
+3.Процессор Intel Core i3 12100,  LGA 1700, OEM   11990
+4.Процессор Intel Core i7 12700KF,LGA 1700, OEM   28990
+5.Процессор Intel Core i9 14900K, LGA 1700, OEM   67990
+6.Процессор AMD Ryzen 3 3200G,    AM4, OEM        6990
+7.Процессор AMD Ryzen 5 5600,     AM4, OEM        10990
+8.Процессор AMD Ryzen 7 7700,     AM5, OEM        27290
+9.Процессор AMD Ryzen 9 9950X,    AM5, OEM        86990
+10.Процессор AMD Ryzen 7 5700X3D, AM4, OEM        21990
